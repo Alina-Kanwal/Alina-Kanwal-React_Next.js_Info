@@ -13,3 +13,18 @@ count → state ka current value (yani abhi kitna number hai).
 setCount → state ko update karne ka function.
 const [count, setCount] = useState(0);
 <button onClick={() => setCount(count + 1)}>{count}</button>
+session_22 23_oct_2025
+1.🔹 JSX (JavaScript XML)
+- JSX allows us to write HTML-like syntax inside JavaScript.
+- It makes UI code more readable and easier to maintain.
+2.🔹 Components
+- Components are the building blocks of a React app.
+- They can be **functional** or **class-based**.
+- Components help break the UI into reusable pieces.
+3.🔹 Props
+- “Props” stands for **properties**.
+- They are used to pass data from one component (parent) to another (child).
+- Props are **read-only** and make components dynamic and reusable.
+🔹🪝 React Hooks
+
+
