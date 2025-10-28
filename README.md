@@ -26,5 +26,11 @@ session_22 23_oct_2025
 - They are used to pass data from one component (parent) to another (child).
 - Props are **read-only** and make components dynamic and reusable.
 🔹🪝 React Hooks
-
+github command
+git init -> initializing k lea
+git add .
+git remote add origin https://github.com/Alina-Kanwal/frontened_assigments.git
+git branch
+git push origin -M main
+git push origin main
 
