@@ -35,4 +35,8 @@ git branch
 git push origin -M main
 git push origin main
 jb dubara files my changes krdi hon tw dubara usy folder ki path pr y command lines run hongi
+git add .
+git commit -m "fix: updated files"
+git push
+
 
